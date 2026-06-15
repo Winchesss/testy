@@ -1,0 +1,91 @@
+Validation_ID,Migration_Batch,Source_System,Page_URL,Error_Type,Severity,Component,Owner,Status,Detected_On,Notes
+VAL-0001,Batch_02,DAM,https://example.com/gallery/page-001,INVALID_LAYOUT,High,Gallery,Frontend Team,Resolved,2026-06-04,Page layout differs from the approved template.
+VAL-0002,Batch_04,Legacy_CMS,https://example.com/article-page/page-002,INVALID_LAYOUT,Critical,Article Page,Content Team,Open,2026-06-07,Page layout differs from the approved template.
+VAL-0003,Batch_04,DAM,https://example.com/downloads/page-003,BROKEN_LINK,Medium,Downloads,QA Team,Open,2026-06-09,Link returns 404 or redirects to an old page.
+VAL-0004,Batch_04,SharePoint,https://example.com/product-page/page-004,EMPTY_TITLE,Medium,Product Page,Migration Team,In Progress,2026-06-07,Title field is empty or not migrated.
+VAL-0005,Batch_04,Legacy_CMS,https://example.com/article-page/page-005,EMPTY_TITLE,Medium,Article Page,Migration Team,Resolved,2026-06-20,Title field is empty or not migrated.
+VAL-0006,Batch_01,Media_Library,https://example.com/contact-page/page-006,MISSING_IMAGE,Medium,Contact Page,Content Team,Open,2026-06-10,Image asset is not available after migration.
+VAL-0007,Batch_02,Legacy_CMS,https://example.com/search/page-007,EMPTY_TITLE,Medium,Search,Content Team,Resolved,2026-06-08,Title field is empty or not migrated.
+VAL-0008,Batch_01,Media_Library,https://example.com/downloads/page-008,INVALID_LAYOUT,Critical,Downloads,Migration Team,Open,2026-06-21,Page layout differs from the approved template.
+VAL-0009,Batch_02,SharePoint,https://example.com/search/page-009,EMPTY_TITLE,Medium,Search,Content Team,Open,2026-06-21,Title field is empty or not migrated.
+VAL-0010,Batch_04,Media_Library,https://example.com/product-page/page-010,BROKEN_LINK,Medium,Product Page,Migration Team,Resolved,2026-06-23,Link returns 404 or redirects to an old page.
+VAL-0011,Batch_02,Legacy_CMS,https://example.com/homepage/page-011,MISSING_ATTACHMENT,Critical,Homepage,Migration Team,Open,2026-06-09,Attachment exists in source but not in target system.
+VAL-0012,Batch_02,Media_Library,https://example.com/search/page-012,BROKEN_LINK,Low,Search,QA Team,Resolved,2026-06-15,Link returns 404 or redirects to an old page.
+VAL-0013,Batch_04,Media_Library,https://example.com/gallery/page-013,BROKEN_LINK,High,Gallery,Migration Team,In Progress,2026-06-05,Link returns 404 or redirects to an old page.
+VAL-0014,Batch_01,DAM,https://example.com/homepage/page-014,MISSING_ATTACHMENT,High,Homepage,Frontend Team,Resolved,2026-06-14,Attachment exists in source but not in target system.
+VAL-0015,Batch_03,Legacy_CMS,https://example.com/contact-page/page-015,MISSING_ATTACHMENT,High,Contact Page,Content Team,Resolved,2026-06-18,Attachment exists in source but not in target system.
+VAL-0016,Batch_01,SharePoint,https://example.com/search/page-016,INVALID_LAYOUT,Medium,Search,QA Team,In Progress,2026-06-15,Page layout differs from the approved template.
+VAL-0017,Batch_02,Legacy_CMS,https://example.com/gallery/page-017,BROKEN_LINK,Medium,Gallery,Migration Team,Resolved,2026-06-17,Link returns 404 or redirects to an old page.
+VAL-0018,Batch_01,SharePoint,https://example.com/product-page/page-018,MISSING_ATTACHMENT,High,Product Page,QA Team,Open,2026-06-04,Attachment exists in source but not in target system.
+VAL-0019,Batch_02,Legacy_CMS,https://example.com/gallery/page-019,EMPTY_TITLE,Low,Gallery,Frontend Team,Open,2026-06-03,Title field is empty or not migrated.
+VAL-0020,Batch_02,DAM,https://example.com/article-page/page-020,BROKEN_LINK,High,Article Page,QA Team,Open,2026-06-06,Link returns 404 or redirects to an old page.
+VAL-0021,Batch_02,DAM,https://example.com/landing-page/page-021,MISSING_IMAGE,High,Landing Page,Migration Team,Open,2026-06-22,Image asset is not available after migration.
+VAL-0022,Batch_01,DAM,https://example.com/contact-page/page-022,INVALID_LAYOUT,High,Contact Page,Frontend Team,Open,2026-06-11,Page layout differs from the approved template.
+VAL-0023,Batch_01,Legacy_CMS,https://example.com/downloads/page-023,BROKEN_LINK,Medium,Downloads,Content Team,In Progress,2026-06-03,Link returns 404 or redirects to an old page.
+VAL-0024,Batch_02,SharePoint,https://example.com/article-page/page-024,EMPTY_TITLE,Low,Article Page,QA Team,In Progress,2026-06-18,Title field is empty or not migrated.
+VAL-0025,Batch_02,Media_Library,https://example.com/contact-page/page-025,BROKEN_LINK,Low,Contact Page,QA Team,In Progress,2026-06-04,Link returns 404 or redirects to an old page.
+VAL-0026,Batch_04,Media_Library,https://example.com/landing-page/page-026,BROKEN_LINK,High,Landing Page,Content Team,Resolved,2026-06-21,Link returns 404 or redirects to an old page.
+VAL-0027,Batch_03,Legacy_CMS,https://example.com/landing-page/page-027,EMPTY_TITLE,Medium,Landing Page,Frontend Team,In Progress,2026-06-07,Title field is empty or not migrated.
+VAL-0028,Batch_03,Media_Library,https://example.com/product-page/page-028,MISSING_ATTACHMENT,High,Product Page,Frontend Team,Open,2026-06-15,Attachment exists in source but not in target system.
+VAL-0029,Batch_01,Legacy_CMS,https://example.com/article-page/page-029,EMPTY_TITLE,Low,Article Page,Content Team,In Progress,2026-06-06,Title field is empty or not migrated.
+VAL-0030,Batch_01,DAM,https://example.com/landing-page/page-030,MISSING_IMAGE,Medium,Landing Page,QA Team,Open,2026-06-13,Image asset is not available after migration.
+VAL-0031,Batch_03,Media_Library,https://example.com/contact-page/page-031,MISSING_IMAGE,Low,Contact Page,QA Team,In Progress,2026-06-07,Image asset is not available after migration.
+VAL-0032,Batch_03,Legacy_CMS,https://example.com/homepage/page-032,MISSING_IMAGE,High,Homepage,Content Team,Open,2026-06-16,Image asset is not available after migration.
+VAL-0033,Batch_01,Legacy_CMS,https://example.com/product-page/page-033,MISSING_ATTACHMENT,Medium,Product Page,Frontend Team,Open,2026-06-20,Attachment exists in source but not in target system.
+VAL-0034,Batch_01,DAM,https://example.com/landing-page/page-034,BROKEN_LINK,Low,Landing Page,Content Team,Open,2026-06-03,Link returns 404 or redirects to an old page.
+VAL-0035,Batch_03,DAM,https://example.com/search/page-035,MISSING_IMAGE,Low,Search,Migration Team,In Progress,2026-06-09,Image asset is not available after migration.
+VAL-0036,Batch_04,SharePoint,https://example.com/gallery/page-036,MISSING_IMAGE,Low,Gallery,Content Team,Open,2026-06-15,Image asset is not available after migration.
+VAL-0037,Batch_01,DAM,https://example.com/article-page/page-037,INVALID_LAYOUT,Medium,Article Page,Migration Team,In Progress,2026-06-12,Page layout differs from the approved template.
+VAL-0038,Batch_03,DAM,https://example.com/search/page-038,EMPTY_TITLE,Low,Search,QA Team,Open,2026-06-23,Title field is empty or not migrated.
+VAL-0039,Batch_03,Legacy_CMS,https://example.com/homepage/page-039,MISSING_IMAGE,High,Homepage,Frontend Team,Resolved,2026-06-04,Image asset is not available after migration.
+VAL-0040,Batch_03,SharePoint,https://example.com/product-page/page-040,EMPTY_TITLE,Low,Product Page,Frontend Team,Resolved,2026-06-11,Title field is empty or not migrated.
+VAL-0041,Batch_04,SharePoint,https://example.com/gallery/page-041,BROKEN_LINK,Medium,Gallery,Content Team,Open,2026-06-21,Link returns 404 or redirects to an old page.
+VAL-0042,Batch_03,DAM,https://example.com/homepage/page-042,MISSING_IMAGE,Medium,Homepage,Migration Team,In Progress,2026-06-24,Image asset is not available after migration.
+VAL-0043,Batch_01,Legacy_CMS,https://example.com/homepage/page-043,MISSING_IMAGE,Low,Homepage,Frontend Team,Open,2026-06-02,Image asset is not available after migration.
+VAL-0044,Batch_04,DAM,https://example.com/product-page/page-044,EMPTY_TITLE,Medium,Product Page,Content Team,Resolved,2026-06-12,Title field is empty or not migrated.
+VAL-0045,Batch_03,DAM,https://example.com/homepage/page-045,EMPTY_TITLE,Low,Homepage,Frontend Team,Resolved,2026-06-04,Title field is empty or not migrated.
+VAL-0046,Batch_02,DAM,https://example.com/landing-page/page-046,MISSING_IMAGE,Low,Landing Page,Frontend Team,In Progress,2026-06-14,Image asset is not available after migration.
+VAL-0047,Batch_04,DAM,https://example.com/search/page-047,BROKEN_LINK,Medium,Search,Migration Team,In Progress,2026-06-26,Link returns 404 or redirects to an old page.
+VAL-0048,Batch_04,DAM,https://example.com/homepage/page-048,INVALID_LAYOUT,High,Homepage,Frontend Team,Open,2026-06-12,Page layout differs from the approved template.
+VAL-0049,Batch_02,Legacy_CMS,https://example.com/downloads/page-049,MISSING_IMAGE,Low,Downloads,Frontend Team,Open,2026-06-11,Image asset is not available after migration.
+VAL-0050,Batch_03,Media_Library,https://example.com/gallery/page-050,MISSING_IMAGE,Medium,Gallery,Migration Team,Open,2026-06-04,Image asset is not available after migration.
+VAL-0051,Batch_01,Legacy_CMS,https://example.com/gallery/page-051,EMPTY_TITLE,Medium,Gallery,QA Team,Resolved,2026-06-24,Title field is empty or not migrated.
+VAL-0052,Batch_04,DAM,https://example.com/article-page/page-052,INVALID_LAYOUT,High,Article Page,Migration Team,Open,2026-06-23,Page layout differs from the approved template.
+VAL-0053,Batch_03,Media_Library,https://example.com/downloads/page-053,MISSING_IMAGE,Low,Downloads,Content Team,Resolved,2026-06-11,Image asset is not available after migration.
+VAL-0054,Batch_03,SharePoint,https://example.com/article-page/page-054,INVALID_LAYOUT,Medium,Article Page,QA Team,Resolved,2026-06-13,Page layout differs from the approved template.
+VAL-0055,Batch_04,Media_Library,https://example.com/downloads/page-055,INVALID_LAYOUT,Medium,Downloads,Frontend Team,Open,2026-06-19,Page layout differs from the approved template.
+VAL-0056,Batch_03,SharePoint,https://example.com/homepage/page-056,MISSING_IMAGE,Low,Homepage,Frontend Team,Open,2026-06-26,Image asset is not available after migration.
+VAL-0057,Batch_04,Media_Library,https://example.com/contact-page/page-057,MISSING_ATTACHMENT,Critical,Contact Page,Frontend Team,Open,2026-06-16,Attachment exists in source but not in target system.
+VAL-0058,Batch_01,SharePoint,https://example.com/product-page/page-058,INVALID_LAYOUT,Critical,Product Page,Migration Team,Open,2026-06-25,Page layout differs from the approved template.
+VAL-0059,Batch_02,Legacy_CMS,https://example.com/downloads/page-059,BROKEN_LINK,High,Downloads,Content Team,In Progress,2026-06-16,Link returns 404 or redirects to an old page.
+VAL-0060,Batch_04,DAM,https://example.com/contact-page/page-060,MISSING_ATTACHMENT,Critical,Contact Page,QA Team,Open,2026-06-13,Attachment exists in source but not in target system.
+VAL-0061,Batch_01,Media_Library,https://example.com/homepage/page-061,MISSING_IMAGE,Low,Homepage,Frontend Team,In Progress,2026-06-26,Image asset is not available after migration.
+VAL-0062,Batch_02,Legacy_CMS,https://example.com/homepage/page-062,EMPTY_TITLE,Medium,Homepage,QA Team,In Progress,2026-06-26,Title field is empty or not migrated.
+VAL-0063,Batch_04,Media_Library,https://example.com/search/page-063,MISSING_ATTACHMENT,Critical,Search,QA Team,In Progress,2026-06-24,Attachment exists in source but not in target system.
+VAL-0064,Batch_03,Media_Library,https://example.com/downloads/page-064,EMPTY_TITLE,Medium,Downloads,Frontend Team,Resolved,2026-06-15,Title field is empty or not migrated.
+VAL-0065,Batch_03,SharePoint,https://example.com/gallery/page-065,BROKEN_LINK,High,Gallery,Content Team,In Progress,2026-06-05,Link returns 404 or redirects to an old page.
+VAL-0066,Batch_01,Media_Library,https://example.com/downloads/page-066,BROKEN_LINK,Medium,Downloads,QA Team,Resolved,2026-06-18,Link returns 404 or redirects to an old page.
+VAL-0067,Batch_04,Legacy_CMS,https://example.com/landing-page/page-067,MISSING_ATTACHMENT,High,Landing Page,QA Team,Open,2026-06-01,Attachment exists in source but not in target system.
+VAL-0068,Batch_04,DAM,https://example.com/landing-page/page-068,EMPTY_TITLE,Medium,Landing Page,QA Team,In Progress,2026-06-09,Title field is empty or not migrated.
+VAL-0069,Batch_04,DAM,https://example.com/search/page-069,MISSING_IMAGE,Medium,Search,QA Team,In Progress,2026-06-20,Image asset is not available after migration.
+VAL-0070,Batch_01,Media_Library,https://example.com/homepage/page-070,MISSING_ATTACHMENT,Medium,Homepage,Frontend Team,Open,2026-06-06,Attachment exists in source but not in target system.
+VAL-0071,Batch_04,SharePoint,https://example.com/downloads/page-071,BROKEN_LINK,High,Downloads,Migration Team,Open,2026-06-09,Link returns 404 or redirects to an old page.
+VAL-0072,Batch_01,Media_Library,https://example.com/gallery/page-072,INVALID_LAYOUT,Medium,Gallery,Content Team,Resolved,2026-06-18,Page layout differs from the approved template.
+VAL-0073,Batch_01,Legacy_CMS,https://example.com/downloads/page-073,BROKEN_LINK,Low,Downloads,Content Team,In Progress,2026-06-07,Link returns 404 or redirects to an old page.
+VAL-0074,Batch_02,Media_Library,https://example.com/downloads/page-074,EMPTY_TITLE,Medium,Downloads,Content Team,Open,2026-06-07,Title field is empty or not migrated.
+VAL-0075,Batch_02,Legacy_CMS,https://example.com/search/page-075,MISSING_ATTACHMENT,High,Search,Frontend Team,Resolved,2026-06-04,Attachment exists in source but not in target system.
+VAL-0076,Batch_04,DAM,https://example.com/landing-page/page-076,MISSING_ATTACHMENT,Medium,Landing Page,Content Team,Open,2026-06-23,Attachment exists in source but not in target system.
+VAL-0077,Batch_01,Legacy_CMS,https://example.com/gallery/page-077,EMPTY_TITLE,Medium,Gallery,Migration Team,Open,2026-06-14,Title field is empty or not migrated.
+VAL-0078,Batch_01,Media_Library,https://example.com/search/page-078,INVALID_LAYOUT,High,Search,QA Team,Open,2026-06-14,Page layout differs from the approved template.
+VAL-0079,Batch_02,Media_Library,https://example.com/contact-page/page-079,EMPTY_TITLE,Medium,Contact Page,Frontend Team,Resolved,2026-06-17,Title field is empty or not migrated.
+VAL-0080,Batch_04,Media_Library,https://example.com/contact-page/page-080,EMPTY_TITLE,Medium,Contact Page,Migration Team,Resolved,2026-06-08,Title field is empty or not migrated.
+VAL-0081,Batch_02,Media_Library,https://example.com/contact-page/page-081,EMPTY_TITLE,Medium,Contact Page,QA Team,Resolved,2026-06-01,Title field is empty or not migrated.
+VAL-0082,Batch_02,SharePoint,https://example.com/contact-page/page-082,MISSING_ATTACHMENT,High,Contact Page,Migration Team,Resolved,2026-06-09,Attachment exists in source but not in target system.
+VAL-0083,Batch_01,DAM,https://example.com/gallery/page-083,EMPTY_TITLE,Low,Gallery,Content Team,In Progress,2026-06-24,Title field is empty or not migrated.
+VAL-0084,Batch_04,Media_Library,https://example.com/downloads/page-084,MISSING_IMAGE,Low,Downloads,QA Team,Open,2026-06-03,Image asset is not available after migration.
+VAL-0085,Batch_03,SharePoint,https://example.com/downloads/page-085,MISSING_IMAGE,Medium,Downloads,QA Team,Open,2026-06-17,Image asset is not available after migration.
+VAL-0086,Batch_03,Media_Library,https://example.com/search/page-086,MISSING_IMAGE,High,Search,Migration Team,Resolved,2026-06-09,Image asset is not available after migration.
+VAL-0087,Batch_01,DAM,https://example.com/search/page-087,BROKEN_LINK,Medium,Search,Frontend Team,In Progress,2026-06-24,Link returns 404 or redirects to an old page.
+VAL-0088,Batch_01,DAM,https://example.com/gallery/page-088,MISSING_ATTACHMENT,Critical,Gallery,Migration Team,In Progress,2026-06-12,Attachment exists in source but not in target system.
+VAL-0089,Batch_03,Legacy_CMS,https://example.com/product-page/page-089,BROKEN_LINK,High,Product Page,Content Team,Open,2026-06-10,Link returns 404 or redirects to an old page.
+VAL-0090,Batch_01,Legacy_CMS,https://example.com/contact-page/page-090,INVALID_LAYOUT,High,Contact Page,Migration Team,Open,2026-06-16,Page layout differs from the approved template.
