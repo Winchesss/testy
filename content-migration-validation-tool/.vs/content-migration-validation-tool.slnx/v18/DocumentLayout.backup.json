@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ReportWriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ReportWriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ContentPageReadResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ContentPageReadResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\test-data\\migrated_pages.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\test-data\\migrated_pages.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\test-data\\migrated_pages.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\test-data\\migrated_pages.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\reports\\json_validation_report.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\reports\\json_validation_report.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\reports\\csv_validation_report.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\reports\\csv_validation_report.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ValidationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ValidationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ValidationReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ValidationReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\JsonPageReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\JsonPageReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ContentPageFileReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ContentPageFileReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\CsvPageReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\CsvPageReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content-migration-validation-tool\\src\\ContentMigrationValidator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentPageReadResult.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ContentPageReadResult.cs",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ContentPageReadResult.cs",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ContentPageReadResult.cs",
+              "RelativeToolTip": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ContentPageReadResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:34:02.977Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Program.cs",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Program.cs",
+              "RelativeToolTip": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Program.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAQwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:36:08.535Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationReport.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ValidationReport.cs",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ValidationReport.cs",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ValidationReport.cs",
+              "RelativeToolTip": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ValidationReport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:36:28.716Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContentPageFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ContentPageFileReader.cs",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ContentPageFileReader.cs",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ContentPageFileReader.cs",
+              "RelativeToolTip": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ContentPageFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:36:41.471Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CsvPageReader.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\CsvPageReader.cs",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\CsvPageReader.cs",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\CsvPageReader.cs",
+              "RelativeToolTip": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\CsvPageReader.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAQwNgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:36:48.54Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonPageReader.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\JsonPageReader.cs",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\JsonPageReader.cs",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\JsonPageReader.cs",
+              "RelativeToolTip": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\JsonPageReader.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:36:53.839Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ValidationService.cs",
+              "RelativeToolTip": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ValidationService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:36:59.023Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportWriter.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ReportWriter.cs",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ReportWriter.cs",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ReportWriter.cs",
+              "RelativeToolTip": "content-migration-validation-tool\\src\\ContentMigrationValidator\\Services\\ReportWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:37:06.997Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "migrated_pages.csv",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\test-data\\migrated_pages.csv",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\test-data\\migrated_pages.csv",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\test-data\\migrated_pages.csv",
+              "RelativeToolTip": "content-migration-validation-tool\\test-data\\migrated_pages.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-07-03T11:37:32.859Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "migrated_pages.json",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\test-data\\migrated_pages.json",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\test-data\\migrated_pages.json",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\test-data\\migrated_pages.json",
+              "RelativeToolTip": "content-migration-validation-tool\\test-data\\migrated_pages.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-03T13:01:52.79Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "csv_validation_report.txt",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\reports\\csv_validation_report.txt",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\reports\\csv_validation_report.txt",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\reports\\csv_validation_report.txt",
+              "RelativeToolTip": "content-migration-validation-tool\\reports\\csv_validation_report.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-03T13:02:19.177Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "json_validation_report.txt",
+              "DocumentMoniker": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\reports\\json_validation_report.txt",
+              "RelativeDocumentMoniker": "content-migration-validation-tool\\reports\\json_validation_report.txt",
+              "ToolTip": "C:\\Users\\aleks\\Downloads\\content-migration-validation-tool\\content-migration-validation-tool\\reports\\json_validation_report.txt",
+              "RelativeToolTip": "content-migration-validation-tool\\reports\\json_validation_report.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-03T13:02:20.804Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

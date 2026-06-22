@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\content-migration-validation-tool",
+    "\\content-migration-validation-tool\\reports",
+    "\\content-migration-validation-tool\\src",
+    "\\content-migration-validation-tool\\src\\ContentMigrationValidator",
+    "\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Models",
+    "\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Services",
+    "\\content-migration-validation-tool\\test-data"
+  ],
+  "SelectedNode": "\\content-migration-validation-tool\\src\\ContentMigrationValidator\\Models\\ValidationReport.cs",
+  "PreviewInSolutionExplorer": false
+}

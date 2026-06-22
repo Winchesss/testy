@@ -1,0 +1,4 @@
+pageId;title;url;imagePath;attachmentPath;status
+1;Home;https://example.com/home;/images/home.png;/files/info.pdf;OK
+2;Contact;;/images/contact.png;;ERROR
+3;About;old-system/about;;/files/about.pdf;OK

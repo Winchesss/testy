@@ -1,0 +1,26 @@
+[
+    {
+        "pageId": 1,
+        "title": "Home",
+        "url": "https://example.com/home",
+        "imagePath": "/images/home.png",
+        "attachmentPath": "/files/info.pdf",
+        "status": "OK"
+    },
+    {
+        "pageId": 2,
+        "title": "Contact",
+        "url": "",
+        "imagePath": "/images/contact.png",
+        "attachmentPath": "",
+        "status": "ERROR"
+    },
+    {
+        "pageId": 3,
+        "title": "About",
+        "url": "old-system/about",
+        "imagePath": "",
+        "attachmentPath": "/files/about.pdf",
+        "status": "OK"
+    }
+]

@@ -1,0 +1,20 @@
+﻿Validation report
+=================
+
+Input details: CSV delimiter detected: semicolon (;)
+Generated at: 2026-07-03 15:14:38
+
+Total pages: 3
+Pages with missing URL: 1
+Pages with missing image: 1
+Pages with missing attachment: 1
+Invalid URLs: 1
+Invalid statuses: 0
+Records with missing required fields: 2
+Total issues: 4
+
+Detailed issues:
+- page 2, row 3, field 'attachmentPath': Attachment path is missing.
+- page 2, row 3, field 'url': URL is missing.
+- page 3, row 4, field 'imagePath': Image path is missing.
+- page 3, row 4, field 'url': URL must start with 'https://' or '/'.

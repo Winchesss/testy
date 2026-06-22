@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+reports/validation_report*.txt
+!reports/sample_validation_report.txt
